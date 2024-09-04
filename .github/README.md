@@ -2,8 +2,7 @@
     ──「 ɴ ᴏ ᴠ ᴧ ⌯ ᴍ ᴜ s ɪ ᴄ 」──
 </h2>
 
-<p align="center">
-  <img src="https://telegra.ph/file/a1fc5b1e68012b932c6fd.jpg">
+<p align="center"><a href="https://t.me/playnova_xprobot"><img src="https://telegra.ph/file/a1fc5b1e68012b932c6fd.jpg="600"></a></p>
     
 </p>
 
