@@ -14,13 +14,13 @@ from youtubesearchpython.__future__ import VideosSearch
 
 import config
 
-from SONALI import app
+from AnonXMusic import app
 
-from SONALI.misc import _boot_
+from AnonXMusic.misc import _boot_
 
-from SONALI.plugins.sudo.sudoers import sudoers_list
+from AnonXMusic.plugins.sudo.sudoers import sudoers_list
 
-from SONALI.utils.database import (
+from AnonXMusic.utils.database import (
 
     add_served_chat,
 
@@ -38,11 +38,11 @@ from SONALI.utils.database import (
 
 )
 
-from SONALI.utils.decorators.language import LanguageStart
+from AnonXMusic.utils.decorators.language import LanguageStart
 
-from SONALI.utils.formatters import get_readable_time
+from AnonXMusic.utils.formatters import get_readable_time
 
-from SONALI.utils.inline import help_pannel, private_panel, start_panel
+from AnonXMusic.utils.inline import help_pannel, private_panel, start_panel
 
 from config import BANNED_USERS
 
